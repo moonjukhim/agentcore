@@ -114,3 +114,6 @@ docs/agentic-ai-architecture-assessment.md
 deployment/.sre_agent_uri
 deployment/.env
 deployment/.agent_arn
+
+
+uv.lock
